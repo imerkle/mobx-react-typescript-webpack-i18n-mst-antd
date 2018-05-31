@@ -36,25 +36,25 @@ Ideal for creating React apps from the scratch.
 ## Setup
 
 ```
-$ npm install
+$ yarn install
 ```
 
 ## Running
 
 ```
-$ npm start
+$ yarn run start
 ```
 
 ## Build
 
 ```
-$ npm run build
+$ yarn run build
 ```
 
 ## Code Format
 
 ```
-$ npm run prettier
+$ yarn run prettier
 ```
 
 # License
