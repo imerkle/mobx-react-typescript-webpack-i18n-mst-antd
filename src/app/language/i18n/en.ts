@@ -2,9 +2,9 @@
 const RESOURCES = {
   MENU: {
     DASHBOARD: 'Dashboard',
-    LOAN: 'Loan',
-    REQUEST: 'Request',
-    LEND: 'Lend',
+    LOAN: 'Menu 2',
+    REQUEST: 'Submenu 1',
+    LEND: 'Submenu 2',
   }
 };
 
